@@ -420,7 +420,7 @@ class WOStackController(CementBaseController):
                     packages = packages + [[
                         "https://github.com/AeroNeave"
                         "/wordops-dashboard/"
-                        "releases/download/v{0}/"
+                        "releases/download/v1.2/"
                         "wordops-dashboard.tar.gz"
                         .format(WOVar.wo_dashboard),
                         "/var/lib/wo/tmp/wo-dashboard.tar.gz",
