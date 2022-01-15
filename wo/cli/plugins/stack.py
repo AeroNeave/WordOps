@@ -418,7 +418,7 @@ class WOStackController(CementBaseController):
                     Log.debug(self,
                               "Setting packages variable for WO-Dashboard")
                     packages = packages + [[
-                        "https://github.com/WordOps"
+                        "https://github.com/AeroNeave"
                         "/wordops-dashboard/"
                         "releases/download/v{0}/"
                         "wordops-dashboard.tar.gz"
